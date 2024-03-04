@@ -1,0 +1,15 @@
+
+img{
+    width: 200px;
+    height: 250px;
+    margin-left: 50px;
+}
+.contact{
+    color: blueviolet;
+}
+.fio{
+    font-style: italic;
+}
+h3{
+    font-style: italic;
+}
